@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+
+body{
+    background-color: aliceblue;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.prodottofoto{
+    width: 20em;
+}
+
+.contenitore{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
